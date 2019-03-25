@@ -1,5 +1,6 @@
 {
-  "fullname": "Enrique Wood",
-  "username": "ewood@khipu.com",
-  "token": "oiwrgeaysvdfkhgavw3976qfwekfavsdfygwoi"
+  "api/message": {
+    "status": 200,
+    "response": "Everything alright!"
+  }
 }
